@@ -18,3 +18,18 @@ body{
     align-items: center;
     height: 100vh;
 }
+.password{
+padding: 8px;
+margin: 8px;
+caret-color: transparent;
+cursor:  pointer;
+}
+.password-button{
+padding: 8px;
+background-color: red;
+border-color: aliceblue;
+color: #f1f5f8 ;
+cursor:  pointer;
+border-radius:  12px;
+margin: 2px;
+}
